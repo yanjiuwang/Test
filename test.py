@@ -8,3 +8,4 @@ for line in lines[1:]:
     x=list(map(eval,line.strip().split()))
     li.append(x)
 print(li)
+print("test")
